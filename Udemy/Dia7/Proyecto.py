@@ -86,20 +86,36 @@ def inicio():
 
         opcion = input(f"Hola {cliente1.nombre} {cliente1.apellido}. Por favor elija la opcion numerica a operar: \n(1) Retirar\n(2) Depositar\n(3) Salir \nMonto disponible ${cliente1.balance}\n")
 
-
         if int(opcion) == 1:
-            opcion = input("Ingrese el monto a retirar y pulsar [ENTER]\n")
-            cliente1.balance -= int(opcion)
+            while True:
+                opcion = input("Ingrese el monto a retirar y pulsar [ENTER] ó ingrese 's' para salir\n")
+
+                if opcion.isdigit():
+                    monto = int(opcion)
+                    if monto <=  cliente1.balance:
+                        cliente1.balance -= monto
+                        break
+                    else:
+                        print("El monto a retirar, no puede superar el monto disponible.\n")
+                        continue
+                else:
+                    if opcion == 's':
+                        break
+                    else:
+                        break
 
         elif int(opcion) == 2:
-            opcion = input("Ingrese el monto a depositar y pulsar [ENTER]\n")
-            cliente1.balance += int(opcion)
+            while True:
+                opcion = input("Ingrese el monto a depositar y pulsar [ENTER] ó ingrese 's' para salir\n ")
+
+                if opcion == 's':
+                    break
+                else:
+                    cliente1.balance += int(opcion)
+                    break
         else:
-            print("Gracias por operar con Banco Ficticio S.A.")
+            print("Gracias por operar con BAnco Ficticio S.A.")
             break
-
-
-
 
 
 #Arrancque
