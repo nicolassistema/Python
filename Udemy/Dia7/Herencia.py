@@ -1,16 +1,24 @@
-from Animal import Animal
+class Padre:
+    def hablar(self):
+        print("Hola")
 
-class Pajaro(Animal):
+
+
+class Madre:
+    def reir(self):
+        print("jaja")
+
+
+class Hijo(Padre, Madre):
     pass
 
-    def nacer(self):
-        print("nacer2")
-
-pioline = Pajaro(2,"Amarillo")
-
-#pioline.nacer()
 
 
 
+class Nieto(Hijo):
+    pass
 
 
+mi_nieto = Nieto()
+
+mi_nieto.reir()

@@ -1,11 +1,18 @@
 class Animal:
 
-#__str__ --> metodos especiales
-
-
-    def __init__(self,edad,color):
+    def __init__(self, edad, color):
         self.edad = edad
         self.color = color
 
     def nacer(self):
-        print("nacer")
+        print("Este animal ha nacido")
+
+    def hablar(self):
+            print("Este animal emite sonido")
+
+
+
+
+
+
+
