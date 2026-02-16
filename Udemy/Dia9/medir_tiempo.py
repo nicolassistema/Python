@@ -55,7 +55,7 @@ def prueba_while (numero):
 '''
 
 
-duracion = timeit.timeit(declaracion, mi_setup, number= 100000000)
-duracion2 = timeit.timeit(declaracion2, mi_setup2, number= 100000000)
+duracion = timeit.timeit(declaracion, mi_setup, number= 100000)
+duracion2 = timeit.timeit(declaracion2, mi_setup2, number= 100000)
 print(duracion)
 print(duracion2)
