@@ -31,3 +31,36 @@ import re
 #
 #
 # verificar_cp('lf666p')
+
+#
+# def verificar_cp(cp):
+#     patron = r'^[a-zA-Z]{4}\-\d{5}$'
+#     if re.findall(patron, cp):
+#         print("Ok")
+#     else:
+#         print("El código postal ingresado no es correcto")
+
+
+#verificar_cp('Nter-10596')
+
+
+
+def buscador(texto):
+    patron = r'^[a-zA-Z]{4}\-\d{5}$'
+    codigo = re.findall(patron, texto)
+    if codigo:
+        return codigo
+    else:
+        return "No se econtro"
+
+
+
+
+
+
+print(buscador("Nter-15046"))
+
+
+
+
+
