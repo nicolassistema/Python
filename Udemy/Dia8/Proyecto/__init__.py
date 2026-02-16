@@ -28,7 +28,7 @@ los números, podemos aprovechar la flexibilidad de los decoradores para crear e
 adicional una sola vez, y luego envolver a cualquiera de nuestras funciones con ese texto único.
 Finalmente, deberías aprovechar que ahora ya sabes dividir tu programa en diferentes módulos,
 y entonces separar el código en dos partes: por un lado, un módulo que se puede llamar
-números.py, en el que vas a escribir todos los generadores y el decorador, y un segundo módulo
+numeros.py, en el que vas a escribir todos los generadores y el decorador, y un segundo módulo
 que podemos llamar principal.py, donde vas a escribir las funciones que administran el
 funcionamiento del programa (como las instrucciones para elegir un área y para decidir si
 seguirá tomando nuevos turnos o si va a finalizar el programa). Recuerda que vas a necesitar

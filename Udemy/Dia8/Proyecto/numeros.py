@@ -1,3 +1,4 @@
+#Decorador
 def decorar_turno(funcion):
     def otra_funcion(sector):
         print('Su turno es')
@@ -6,7 +7,7 @@ def decorar_turno(funcion):
         return resultado
     return otra_funcion
 
-
+#Generador
 def generador_turno():
     n = 1
     while True:
@@ -35,9 +36,9 @@ def switch_sectores(sector):
 
 
 
-switch_sectores(1)
-switch_sectores(1)
-switch_sectores(1)
-switch_sectores(2)
-switch_sectores(1)
+# switch_sectores(1)
+# switch_sectores(1)
+# switch_sectores(1)
+# switch_sectores(2)
+# switch_sectores(1)
 
