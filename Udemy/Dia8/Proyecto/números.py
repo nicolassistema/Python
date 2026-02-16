@@ -35,13 +35,9 @@ def switch_sectores(sector):
 
 
 
+switch_sectores(1)
+switch_sectores(1)
+switch_sectores(1)
+switch_sectores(2)
+switch_sectores(1)
 
-
-#
-# switch_sectores(1)
-# switch_sectores(1)
-# switch_sectores(2)
-# switch_sectores(1)
-
-turno_decorado = decorar_turno(switch_sectores)
-turno_decorado(1)
