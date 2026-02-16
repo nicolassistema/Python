@@ -8,7 +8,7 @@ patron = 'papa'
 busqueda = re.findall(patron, texto)
 
 
-patron2 = r'\d\d\d-\d\d\d-\d\d\d\d'
+patron2 = r'\d\d\d-\d\d\d-\d\d\d\d' ##son algo asi como marcadores de posicion
 resultado2 = re.findall(patron2, texto)
 
 print(resultado2)

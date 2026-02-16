@@ -17,6 +17,7 @@ def prueba_while (numero):
         contador += 1
     return lista
 
+#forma basica de medir
 # inicio = time.time()
 # prueba_for(1000)
 # final = time.time()
@@ -54,7 +55,7 @@ def prueba_while (numero):
 '''
 
 
-duracion = timeit.timeit(declaracion, mi_setup, number= 1000000)
-duracion2 = timeit.timeit(declaracion2, mi_setup2, number= 1000000)
+duracion = timeit.timeit(declaracion, mi_setup, number= 100000000)
+duracion2 = timeit.timeit(declaracion2, mi_setup2, number= 100000000)
 print(duracion)
 print(duracion2)
