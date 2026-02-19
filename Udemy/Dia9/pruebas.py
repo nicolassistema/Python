@@ -46,10 +46,14 @@ import re
 
 
 def buscador(texto):
-    patron = r'^[a-zA-Z]{4}\-\d{5}$'
+    patron = r'[a-zA-Z]{4}\-\d{5}'
+
     codigo = re.findall(patron, texto)
     if codigo:
-        return codigo
+        texto = codigo[0]
+        texto = texto.replace("'", "")
+
+        return texto
     else:
         return "No se econtro"
 
@@ -58,7 +62,8 @@ def buscador(texto):
 
 
 
-print(buscador("Nter-15046"))
+print(buscador("Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent in tellus porta, vehicula nisl vel, ultrices orci. Mauris egestas, lectus eget consectetur dictum, dui lectus suscipit nulla, vitae tristique elit orci dignissim elit. Sed fermentum elementum Nhjn-54885 odio, sit amet rhoncus nibh pellentesque eu. Proin sit amet porttitor lorem. Cras urna orci, molestie a semper quis, commodo non augue. Vestibulum blandit pellentesque lectus, sit amet dignissim orci finibus quis. In sem metus, pellentesque eget ultrices ac, tempor eleifend ligula."))
+print(buscador("Nhjn-54885"))
 
 
 
