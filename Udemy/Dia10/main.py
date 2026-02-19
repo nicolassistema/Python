@@ -1,6 +1,7 @@
 import math
 import pygame
 import random
+from  pygame import mixer
 
 #inicializa la pantalla
 pygame.init()
@@ -13,6 +14,12 @@ pygame.display.set_caption('Invasion espacial') #nombre de la pantalla
 icono = pygame.image.load("ovni.png")           #icono ce la pantalla
 pygame.display.set_icon(icono)
 fondo = pygame.image.load("fondo.jpg")
+
+
+#agregar musica
+mixer.music.load("musica_fondo.mp3")
+mixer.music.set_volume(0.3)
+mixer.music.play(-1)
 
 
 #variables del jugador
@@ -59,6 +66,16 @@ puntaje = 0
 fuente = pygame.font.Font('Fastest.ttf', 32)
 texto_x = 10
 texto_y = 10
+
+
+
+#texto final de juego
+fuente_final = pygame.font.Font('Fastest.ttf', 40)
+
+
+def texto_final():
+    mi_fuente_final = fuente_final.render("JUEGO TERMINADO", True, (225,225,225))
+    pantalla.blit(mi_fuente_final, (60,200))
 
 
 #funcio mostrar puntaje
@@ -116,6 +133,8 @@ while se_ejecuta:
             if evento.key == pygame.K_RIGHT:    # si lo que preciono es la flecha derecha
                 jugador_x_cambio = 0.3
             if evento.key == pygame.K_SPACE:
+                sonido_bala = mixer.Sound('disparo.mp3')
+                sonido_bala.play()
                 if not bala_visible:
                     bala_x = jugador_x
                     disparar_bala(bala_x, bala_y)
@@ -136,6 +155,15 @@ while se_ejecuta:
 
     #Modificar ubicacion del enemigo
     for e in range(cantidad_enemigos):
+
+        #fin del juego
+        if enemigo_y[e] > 500:
+            for k in range(cantidad_enemigos):
+                enemigo_y[k] = 1000
+            texto_final()
+            break
+
+
         enemigo_x[e] += enemigo_x_cambio[e]
 
         #mantener dentro de bordes al enemigo
@@ -149,6 +177,8 @@ while se_ejecuta:
         # colision
         colision = hay_colicion(enemigo_x[e], enemigo_y[e], bala_x, bala_y)
         if colision:
+            sonido_colision = mixer.Sound('explosion.mp3')
+            sonido_colision.play()
             bala_y = 500
             bala_visible = False
             puntaje += 1
