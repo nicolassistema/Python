@@ -1,0 +1,180 @@
+import math
+import pygame
+import random
+
+#inicializa la pantalla
+pygame.init()
+
+#Crea la pantallla
+pantalla = pygame.display.set_mode((800,600))
+
+#titulo del Icono
+pygame.display.set_caption('Invasion espacial') #nombre de la pantalla
+icono = pygame.image.load("ovni.png")           #icono ce la pantalla
+pygame.display.set_icon(icono)
+fondo = pygame.image.load("fondo.jpg")
+
+
+#variables del jugador
+img_jugador = pygame.image.load("cohete.png")   #cargo el cohete en una variable
+jugador_x = 368                                 #defino ubciacion inicial para el eje de las x
+jugador_y = 500                                 #defino ubciacion inicial para el eje de las y
+jugador_x_cambio = 0                            #va alamcenar el valor de la posicion con respecto al eje de las x
+
+#variables del enemigo
+# img_enemigo = pygame.image.load("ovni_enemy.png")   #cargo el cohete en una variable
+# enemigo_x = random.randint(0,736)             #defino ubciacion inicial para el eje de las x
+# enemigo_y = random.randint(50,200)            #defino ubciacion inicial para el eje de las y
+# enemigo_x_cambio = 0.5                               #va alamcenar el valor de la posicion con respecto al eje de las x
+# enemigo_y_cambio = 50                               #va alamcenar el valor de la posicion con respecto al eje de las y
+
+
+img_enemigo = []
+enemigo_x = []
+enemigo_y = []
+enemigo_x_cambio = []
+enemigo_y_cambio = []
+cantidad_enemigos = 8
+
+
+for e in range(cantidad_enemigos):
+    img_enemigo.append(pygame.image.load("ovni_enemy.png"))
+    enemigo_x.append(random.randint(0,736))
+    enemigo_y.append(random.randint(50,200))
+    enemigo_x_cambio.append(0.5)
+    enemigo_y_cambio.append(50)
+
+
+#variables de la bala
+img_bala = pygame.image.load("bala.png")   #cargo el cohete en una variable
+bala_x = 0                                         #defino ubciacion inicial para el eje de las x
+bala_y = 500                                         #defino ubciacion inicial para el eje de las y
+bala_x_cambio = 0                               #va alamcenar el valor de la posicion con respecto al eje de las x
+bala_y_cambio = 3                               #va alamcenar el valor de la posicion con respecto al eje de las y
+bala_visible = False
+
+
+#puntaje
+puntaje = 0
+fuente = pygame.font.Font('Fastest.ttf', 32)
+texto_x = 10
+texto_y = 10
+
+
+#funcio mostrar puntaje
+def mostrar_puntaje(x,y):
+    texto = fuente.render(f'Puntaje: {puntaje}', True, (255,255,255))
+    pantalla.blit(texto, (x, y))
+
+
+
+#funcion jugador
+def jugador(x,y): #funcion para cunstruir la posicicn del jugador
+    pantalla.blit(img_jugador, (x, y))  #blit es como arrojar
+
+
+#funcion enemigo
+def enemigo(x,y,ene): #funcion para cunstruir la posicicn del jugador
+    pantalla.blit(img_enemigo[ene], (x, y))  #blit es como arrojar
+
+#funcion disparar bala
+def disparar_bala(x,y):
+    global bala_visible
+    bala_visible = True
+    pantalla.blit(img_bala, (x + 16 , y + 10))
+
+
+#funcion detectar colisiones
+def hay_colicion(x_1, y_1, x_2, y_2):
+    distancia = math.sqrt(math.pow(x_1 -x_2, 2) + math.pow(y_2 - y_1, 2)) #el metodo sqrt es para raiz cuadrada
+    if distancia < 27:
+        return True
+    else:
+        return False
+
+#loop del juego
+se_ejecuta = True
+while se_ejecuta:
+
+    #imagen de fondo
+    pantalla.blit(fondo, (0, 0))
+
+    #RGB
+    #pantalla.fill((0, 0, 0))            # color de fondo de la pantalla
+
+    #iterar eventos
+    for evento in pygame.event.get():   #recorre la lista de eventos que existe en la nomenclatura de pygame
+
+        #Evento cerrar
+        if evento.type == pygame.QUIT:  #si el evento es del tipo QUIT
+            se_ejecuta = False          # se ejecuta el False para cerrar la pantalla
+
+        #evento presionar teclas
+        if evento.type == pygame.KEYDOWN:   #se fija su hubo una tecla presionada
+            if evento.key == pygame.K_LEFT: # si lo que preciono es la flecha izquierda
+                jugador_x_cambio = -0.3
+            if evento.key == pygame.K_RIGHT:    # si lo que preciono es la flecha derecha
+                jugador_x_cambio = 0.3
+            if evento.key == pygame.K_SPACE:
+                if not bala_visible:
+                    bala_x = jugador_x
+                    disparar_bala(bala_x, bala_y)
+
+        #evento soltar flecha
+        if evento.type == pygame.KEYUP:     #se fija si la tecla dejo de presionarse
+            if evento.key == pygame.K_LEFT or evento.key == pygame.K_RIGHT:
+                jugador_x_cambio = 0
+
+    #Modificar ubicacion del jugador
+    jugador_x += jugador_x_cambio
+
+    #mantener dentro de bordes al jugador
+    if jugador_x <= 0:
+        jugador_x = 0
+    elif jugador_x >= 736:
+        jugador_x = 736
+
+    #Modificar ubicacion del enemigo
+    for e in range(cantidad_enemigos):
+        enemigo_x[e] += enemigo_x_cambio[e]
+
+        #mantener dentro de bordes al enemigo
+        if enemigo_x[e] <= 0:
+            enemigo_x_cambio[e] = 0.1
+            enemigo_y += enemigo_y_cambio
+        elif enemigo_x[e] >= 736:
+            enemigo_x_cambio[e] = -0.1
+            enemigo_y[e] += enemigo_y_cambio[e]
+
+        # colision
+        colision = hay_colicion(enemigo_x[e], enemigo_y[e], bala_x, bala_y)
+        if colision:
+            bala_y = 500
+            bala_visible = False
+            puntaje += 1
+            enemigo_x[e] = random.randint(0, 736)
+            enemigo_y[e] = random.randint(50, 200)
+
+        enemigo(enemigo_x[e], enemigo_y[e], e)
+
+    #movimiento bala
+    if bala_y <= -64:
+        bala_y = 500
+        bala_visible = False
+
+    if bala_visible:
+        disparar_bala(bala_x, bala_y)
+        bala_y -= bala_y_cambio
+
+
+
+    jugador(jugador_x, jugador_y)
+
+    mostrar_puntaje(texto_x,texto_y)
+
+
+    #actualizar
+    pygame.display.update()             # para que se actualice al color de fondo que definimos
+
+
+
