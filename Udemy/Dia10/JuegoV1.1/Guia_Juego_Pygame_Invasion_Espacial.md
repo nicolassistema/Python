@@ -212,3 +212,143 @@ Este proyecto es una base sólida para entender:
 -   Manejo correcto de sonido
 -   Colisiones matemáticas
 -   Arquitectura básica de videojuegos
+
+
+------------------------------------------------------------------------
+# 🚀 Generar .exe
+# Convertir el juego en ejecutable (.exe) con PyInstaller
+
+El proceso consta de 2 grandes pasos:
+
+1.  Convertir las fuentes de tipo `String` a objetos `Bytes`
+2.  Utilizar `PyInstaller` para generar el ejecutable
+
+------------------------------------------------------------------------
+
+# 1. Convertir las fuentes de tipo String a Bytes
+
+## Paso 1: Descargar la fuente
+
+Descarga la fuente utilizada en el juego.
+
+Ejemplo: FreeSansBold.ttf\
+https://www.download-free-fonts.com/details/2045/free-sans-bold
+
+Guarda el archivo `.ttf` en la misma carpeta donde se encuentra:
+
+Invasion_Espacial.py
+
+------------------------------------------------------------------------
+
+## Paso 2: Convertir la fuente a objeto Bytes
+
+Cuando se genera un ejecutable con `--onefile`, los archivos externos
+pueden no encontrarse correctamente.
+
+Para evitar esto, convertimos la fuente de `String` a `Bytes`.
+
+Primero importamos la librería:
+
+``` python
+import io
+```
+
+Luego creamos una función que convierta el archivo en bytes:
+
+``` python
+def cargar_fuente_bytes(nombre_fuente, tamaño):
+    with open(nombre_fuente, "rb") as f:
+        fuente_bytes = f.read()
+    return pygame.font.Font(io.BytesIO(fuente_bytes), tamaño)
+```
+
+Ahora en lugar de:
+
+``` python
+fuente = pygame.font.Font("FreeSansBold.ttf", 32)
+```
+
+Usamos:
+
+``` python
+fuente = cargar_fuente_bytes("FreeSansBold.ttf", 32)
+```
+
+------------------------------------------------------------------------
+
+# 2. Utilizar PyInstaller
+
+## Paso 1: Instalar PyInstaller
+
+``` bash
+pip install pyinstaller
+```
+
+------------------------------------------------------------------------
+
+## Paso 2: Abrir la consola
+
+Abrir CMD o PowerShell en la carpeta donde está:
+
+Invasion_Espacial.py
+
+------------------------------------------------------------------------
+
+## Paso 3: Ejecutar el comando
+
+``` bash
+pyinstaller --clean --onefile --windowed Invasion_Espacial.py
+```
+
+------------------------------------------------------------------------
+
+## Significado de cada parámetro
+
+--clean\
+Elimina archivos temporales creados por PyInstaller antes de compilar.
+
+--onefile\
+Genera un único archivo `.exe` que contiene todo el programa.
+
+--windowed\
+Evita que se abra una consola negra al ejecutar el juego.
+
+Invasion_Espacial.py\
+Archivo Python que se convertirá en ejecutable.
+
+------------------------------------------------------------------------
+
+# Resultado de la compilación
+
+Se crearán dos carpetas:
+
+-   build/
+-   dist/
+
+La carpeta `dist/` contiene el archivo ejecutable final.
+
+------------------------------------------------------------------------
+
+# Importante
+
+Dentro de la carpeta `dist/` deberás copiar todos los archivos
+necesarios:
+
+-   Imágenes (.png, .jpg)
+-   Sonidos (.mp3)
+-   Música
+-   Fuentes
+
+Si no los copiás, el juego no encontrará los recursos.
+
+------------------------------------------------------------------------
+
+# Resumen
+
+-   Convertir fuentes a Bytes\
+-   Instalar PyInstaller\
+-   Ejecutar comando con parámetros adecuados\
+-   Copiar recursos a la carpeta dist
+
+Con esto tendrás tu juego convertido en `.exe`.
+

@@ -2,6 +2,9 @@ import math
 import pygame
 import random
 from pygame import mixer
+import io
+
+
 
 # -------------------------
 # Inicialización (audio + pygame)
@@ -79,16 +82,32 @@ bala_x_cambio = 0
 bala_y_cambio = 0.1
 bala_visible = False
 
+def fuente_bytes(fuente):
+    #abre el archivo TT en modo lectura binaria
+    with open(fuente, 'rb') as f:
+        #lee todos los butes del archivo y los almacena en una variable
+        ttf_bytes = f.read()
+    #crea un objeto BytesIO a parir de los bytes del archivo TIF
+    return io.BytesIO(ttf_bytes)
+
+
 # -------------------------
 # Puntaje
 # -------------------------
 puntaje = 0
-fuente = pygame.font.Font('Fastest.ttf', 32)
+fuente_como_bytes = fuente_bytes("FreeSansBold.ttf")
+fuente = pygame.font.Font(fuente_como_bytes, 32)
 texto_x = 10
 texto_y = 10
 
 # Texto final
-fuente_final = pygame.font.Font('Fastest.ttf', 40)
+fuente_final = pygame.font.Font(fuente_como_bytes, 40)
+
+def texto_final():
+    mi_fuente_final = fuente_final.render("GAME OVER", True, (255, 255, 255))
+    pantalla.blit(mi_fuente_final, (60, 200))
+
+
 
 def texto_final():
     mi_fuente_final = fuente_final.render("JUEGO TERMINADO", True, (225, 225, 225))
