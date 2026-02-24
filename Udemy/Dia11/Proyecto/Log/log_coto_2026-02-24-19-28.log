@@ -1,0 +1,56 @@
+2026-02-24 19:28:19,406 - INFO - ***************************************************
+2026-02-24 19:28:19,406 - INFO - Procesando 1/3 -> Golosinas
+2026-02-24 19:28:20,267 - INFO - ✅ Golosinas: 26 páginas
+2026-02-24 19:28:20,267 - INFO - ***************************************************
+2026-02-24 19:28:20,267 - INFO - Procesando 2/3 -> Alfajores
+2026-02-24 19:28:20,700 - INFO - ✅ Alfajores: 6 páginas
+2026-02-24 19:28:20,700 - INFO - ***************************************************
+2026-02-24 19:28:20,700 - INFO - Procesando 3/3 -> Chocolates
+2026-02-24 19:28:21,178 - INFO - ✅ Chocolates: 8 páginas
+2026-02-24 19:28:21,185 - INFO - 🗑 Archivo eliminado: Coto\categorias.json ✔
+2026-02-24 19:28:21,185 - INFO - 📦 JSON final generado en: Coto\categorias_paginadas.json
+2026-02-24 19:28:21,185 - INFO - 📌 Lista resumida creada: 3 categorías con URLs
+2026-02-24 19:28:21,186 - INFO - 📦 Scrapeando categoría 1/3: Golosinas (páginas: 26)
+2026-02-24 19:28:21,823 - INFO -    Página 1/26 -> productos: 24
+2026-02-24 19:28:22,274 - INFO -    Página 2/26 -> productos: 24
+2026-02-24 19:28:22,519 - INFO -    Página 3/26 -> productos: 24
+2026-02-24 19:28:22,925 - INFO -    Página 4/26 -> productos: 24
+2026-02-24 19:28:23,188 - INFO -    Página 5/26 -> productos: 24
+2026-02-24 19:28:23,531 - INFO -    Página 6/26 -> productos: 24
+2026-02-24 19:28:23,872 - INFO -    Página 7/26 -> productos: 24
+2026-02-24 19:28:24,242 - INFO -    Página 8/26 -> productos: 24
+2026-02-24 19:28:24,527 - INFO -    Página 9/26 -> productos: 24
+2026-02-24 19:28:24,847 - INFO -    Página 10/26 -> productos: 24
+2026-02-24 19:28:25,108 - INFO -    Página 11/26 -> productos: 24
+2026-02-24 19:28:25,420 - INFO -    Página 12/26 -> productos: 24
+2026-02-24 19:28:25,686 - INFO -    Página 13/26 -> productos: 24
+2026-02-24 19:28:26,001 - INFO -    Página 14/26 -> productos: 24
+2026-02-24 19:28:26,307 - INFO -    Página 15/26 -> productos: 24
+2026-02-24 19:28:26,685 - INFO -    Página 16/26 -> productos: 24
+2026-02-24 19:28:27,038 - INFO -    Página 17/26 -> productos: 24
+2026-02-24 19:28:27,330 - INFO -    Página 18/26 -> productos: 24
+2026-02-24 19:28:27,674 - INFO -    Página 19/26 -> productos: 24
+2026-02-24 19:28:27,925 - INFO -    Página 20/26 -> productos: 24
+2026-02-24 19:28:28,136 - INFO -    Página 21/26 -> productos: 24
+2026-02-24 19:28:28,356 - INFO -    Página 22/26 -> productos: 24
+2026-02-24 19:28:28,582 - INFO -    Página 23/26 -> productos: 24
+2026-02-24 19:28:28,893 - INFO -    Página 24/26 -> productos: 24
+2026-02-24 19:28:29,151 - INFO -    Página 25/26 -> productos: 24
+2026-02-24 19:28:29,486 - INFO -    Página 26/26 -> productos: 18
+2026-02-24 19:28:29,486 - INFO - 📦 Scrapeando categoría 2/3: Alfajores (páginas: 6)
+2026-02-24 19:28:29,821 - INFO -    Página 1/6 -> productos: 24
+2026-02-24 19:28:30,086 - INFO -    Página 2/6 -> productos: 24
+2026-02-24 19:28:30,412 - INFO -    Página 3/6 -> productos: 24
+2026-02-24 19:28:30,724 - INFO -    Página 4/6 -> productos: 24
+2026-02-24 19:28:30,951 - INFO -    Página 5/6 -> productos: 24
+2026-02-24 19:28:31,382 - INFO -    Página 6/6 -> productos: 20
+2026-02-24 19:28:31,382 - INFO - 📦 Scrapeando categoría 3/3: Chocolates (páginas: 8)
+2026-02-24 19:28:31,633 - INFO -    Página 1/8 -> productos: 24
+2026-02-24 19:28:31,965 - INFO -    Página 2/8 -> productos: 24
+2026-02-24 19:28:32,266 - INFO -    Página 3/8 -> productos: 24
+2026-02-24 19:28:32,528 - INFO -    Página 4/8 -> productos: 24
+2026-02-24 19:28:32,878 - INFO -    Página 5/8 -> productos: 24
+2026-02-24 19:28:33,291 - INFO -    Página 6/8 -> productos: 24
+2026-02-24 19:28:33,806 - INFO -    Página 7/8 -> productos: 24
+2026-02-24 19:28:34,091 - INFO -    Página 8/8 -> productos: 18
+2026-02-24 19:28:34,096 - INFO - ✅ Productos guardados en: Coto\productos_nombre_precio.json

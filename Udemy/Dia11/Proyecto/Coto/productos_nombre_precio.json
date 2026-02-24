@@ -1,0 +1,3799 @@
+[
+  {
+    "categoria": "Golosinas",
+    "total_urls": 26,
+    "total_productos": 618,
+    "productos": [
+      {
+        "nombre": "Caramelos Rellenos Frutales Arcor Bsa 810 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Mta/Choc ARCOR Bsa 715 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Rodajas Arcor Bsa 930 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Turrón De Maní ARCOR 10u",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Eucalyptus Arcor Mogul Bsa 1000 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas Goma Forma Anillos Arcor Paq 1000 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Arcor Masticables Frutales Bol 800 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate 50% Cacao ARCOR 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco ARCOR 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Gajitos Acidos Frutales Arcor Paq 485 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche ARCOR 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Turron Mani ARCOR 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate BAGLEY 73.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor TERRABUSI Chocolate Clásico 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor TERRABUSI Triple Clásico 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor TERRABUSI 38g Blanco Glaseado 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor TERRABUSI Triple Torta 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate Clásico TERRABUSI 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor PEPITOS Triple 57g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor Negro 6u JORGITO 155g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor Rellenos De Dulce De Leche JORGITO 160g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Jorgito Mini Blanco Paquete 25 Gr 6 Unidades",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor De Mousse JORGITO 128g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate 55g JORGITO 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Fruta 6u JORGITO 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco 50g JORGITO 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate GEORGALOS Sin Azúcar 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Extrafino Amargo AGUILA 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Donas Chocolate Blanco DONUTS 78g",
+        "precio": null
+      },
+      {
+        "nombre": "Donas Chocolate DONUTS 78g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor TITA Limón 36g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco 6u CACHAFAZ 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Maizena CACHAFAZ 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate 60g CACHAFAZ 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Mousse CACHAFAZ 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Confites De Chocolate ROCKLETS 40g",
+        "precio": null
+      },
+      {
+        "nombre": "Confites Mini ROCKLETS 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Confites ROCKLETS Lentejas 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor  FANTOCHE Mini Blanco Paquete 25 Gr 6 Unidades",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor  FANTOCHE Mini Chocolate Paquete 25 Gr 6 Unidades",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Blanca BON O BON 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Bombón Sabor Chocolinas BON O BON 270g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea BON O BON 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Bombones BON O BON 270g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Chocolate BON O BON 45g",
+        "precio": null
+      },
+      {
+        "nombre": "Bombones Blanco BON O BON  270g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor BON O BON 40g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate BON O BON 240g",
+        "precio": null
+      },
+      {
+        "nombre": "Bombones BON O BON 112g",
+        "precio": null
+      },
+      {
+        "nombre": "Bombones Rellenos De Chocolate Águila BON O BON 270g",
+        "precio": null
+      },
+      {
+        "nombre": "Bombon BON O BON Blanco X 1 Unidad",
+        "precio": null
+      },
+      {
+        "nombre": "Bombón BON O BON 1u",
+        "precio": null
+      },
+      {
+        "nombre": "Tableta Light Dulce De Vauquita Tab 140 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Tableta Dulce De Leche Suave VAUQUITA 88g",
+        "precio": null
+      },
+      {
+        "nombre": "Tableta Dulce De Leche Vauquita Bsa 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Tableta Dulce De Leche VAUQUITA Tab 140 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos SUGUS Confitados 50 Grs",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Plegados Sugus Bsa 150 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Sugus Varios Sabores Bol 700 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Con Leche 20g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Oreo Blanco 20g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Chocopause 45g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Con Almendras 155g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Oreo Blanco 155g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Con Almendras  55g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Relleno Dulce De Leche 67,5g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Blanco Relleno Dulce De Leche 67,5g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Con Castañas 155g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Oreo Lila Go 37g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Oreo Blanco 55g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Choco Swing 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple MILKA Dulce De Leche 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche MILKA 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Con Castañas 55g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Con Leche 55g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Relleno Dulce De Leche 135g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Blanco 55g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple MILKA Oreo 61g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor MILKA Simple Mousse 42g Display X 6 Un.",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate KINDER Bueno Tab 43 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate KINDER Maxi Tab 21 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Bco/Lech Cofler Tab 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Maní Block COFLER 1000g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Con Leche Tab 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Block COFLER 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Mani C/Choco COFLER Cja 40 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Cofler Mixto Tab 27 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco COFLER Paq 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Rellena Sabor COFLER Bli 45 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Maní COFLER 170g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Air Blanco Cofler Tab 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Con Leche Y Cereal 55 Gr.",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Air Blanco Tab 27 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Air/Lec Tab 27 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Air/Lec Cofler Tab 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco C/Cooki COFLER Fwp 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Aireado Leche Tab 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Con Mani Paq 110 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate C/Mani COFLER Paq 300 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Con Maní 38 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Aireado Blanco Y Leche Tab 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Air Almendras Tab 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Con Leche Y Almendras Paq 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Almendra Cofler Paq 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Air/Bco COFLER Tab 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Mogul Frutales Paq 12 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Bombon Fruta Arcor Pot 500 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Frutigelatin MOGUL Paq 500 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Extreme Acido MOGUL Fwp 35 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Arcor Frutigelatin Dientes Paq 500 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelo Mogul Frutilla Y Crema Bsa 500 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas Fruta Mogul Paq 1000 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Tiburoncitos Frutti Gelatin Bol 30 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas Surtido Arcor Paq 1000 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Ositos Mogul Paq 30 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Frut/Gel Frutigelati Bsa 30 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Kitkat® 4 Fingers X 41.5gr",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Leche Butter Toffees Bsa 957 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Aguila BUTTER TOFFEES Bsa 822 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos BUTTER TOFFEES Chocolate Bol 822 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate SHOT Con Maní 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate SHOT Con Maní 35g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate SHOT Con Maní 170g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor SHOT Con Maní Triple 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate NUGATON Blanco 27 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate NUGATON 27 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles 7 Ultra Red Be Topline Est 24 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles Topline Seven Frutilla Paq 14.7 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles TOPLINE Seven Menta Paq 14 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles TOPLINE Seven Mandarina Paq 14 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles TOPLINE Seven Mentol Paq 14.7 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles 7 Ultra Clean TOPLINE Est 24 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles 7 Ultra Green TOPLINE Est 24 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles TOPLINE Menta Paq 6.7 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles TOPLINE Defense Paq 6.7 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles TOPLINE Fruta Paq 6.7 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles Sandia / Menta TOPLINE Paq 6.7 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles TOPLINE Strong Paq 6.7 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Mta/Cris Arcor Bsa 810 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetin Twister Mr.Pop'S Bsa 550 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Bombones Surtidos BON O BON 272g",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetin Frutal Mr.Pop'S Bsa 10 Unidades",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Menthoplus Acidos De Cereza Paq 27,2 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor  TOFI   Chocolate Paquete 46 Gr 1 Unidad",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetin Tuti Fruti Mr.Pop'S Bsa 480 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Menthoplus Acidos De Naranja Paq 27,2 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Cherry Menthoplus Paq 29.4 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetin MR. POPS Frutal Bol 50 Uni",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Tembleke Surtido Paq 64 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Durazno Menthoplus Pan 26.6 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gelatinas Domino Tremblito Dsp 48 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetin Cereza Mr.Pop S Bsa 432 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Cherry Alka Bsa 200 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas Menta Tic Tac Pas 49 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate Triple TOFI 73g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas TIC TAC Menta Cja 16 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Con Avellana RITTER Sport 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Jorgelín Chocolate 85 Gr X 3 Uni",
+        "precio": null
+      },
+      {
+        "nombre": "Bombones Corazones De Chocolate Belgium 200g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Menthol Mentho Plus Paq 30.6 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas TIC TAC Naranja Cja 16 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Avellanas Y Pasas RITTER 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas TREMBLY Frutas Paq 64 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gelatinas Bunny Slurps Trembly Dsp 48 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Belgium 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas Surtido Tic Tac Cja 16 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Bombones FERRERO ROCHER 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas TIC TAC Naranja Est 49 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas TREMBLY Surtido Paq 64 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple Blanco TOFI 73g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas Surtido Tic Tac Cja 49 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Hazelnut Belgium Est 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gelatinas TEMBLEKE Simpson Bli 48 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Trufas De Cacao Belgium Est 200 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gelatinas Bichos Trembly Dsp 48 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Menta Mentho Plus Paq 29.4 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate TOFI 45g 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor De Fruta JORGITO 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Strong Menthoplus Paq 29.4 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate TOBLERONE Con Leche Tab 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno De Mouse Ritter 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Almendra Ritter 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Avellanas Ritter 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Bombones FERRERO ROCHER 24u 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Bombones Chocolate Y Avellana FERRERO ROCHER 37.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Alpenmelk RITTER 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Bitter Sweet 5 Belgium 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate C/Mani Georgalos Bar 160 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Uva Flynn Paff Bsa 128 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos PICO DULCE Masticables 150 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos PICO DULCE Duro 150 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Bombón Ferrero Raffaello 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetin PICO DULCE Lheritier 5u",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Draculenguas Paq 35 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Postre De Mani Nucrem 105 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Bombón Cubierto De Chocolate Ferrero 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Aireado Mix Toddy 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Nevares 45g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Cacao 50% Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco GEORGALOS 8g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Negro Con Dulce De Leche Genio 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche NEUGEBAUER 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Sabor Frutal Pico Dulce 600g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Rellenos Splash MOGUL 30g",
+        "precio": null
+      },
+      {
+        "nombre": "NESTLE CHOCO TRIO Chocolate X 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Duros Menta Naranja Fullmint 28g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Aireado Con Leche 110g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Chocoblack Gallo Snack 20g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Chocolate Bco  Cofler Fwp 140 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno De Pasta De Maní Bon O Bon 48g",
+        "precio": null
+      },
+      {
+        "nombre": "Turron De Mani Nevares 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Dulce De Leche Sin Gluten Happy Food 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Membrillo X6 Yuka 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles Bubble Fun Seven Topline 14 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Frambuesa Lenguetazo 13g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Rellenos Masti Splash Mogul 72g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Amargo 40% Cacao NEUGEBAUER 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Bocadito De Dulce De Leche Sin Gluten Happy Food 120g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche GEORGALOS 8g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Arcor 48g",
+        "precio": null
+      },
+      {
+        "nombre": "Confites Lentejas ROCKLETS 500g",
+        "precio": null
+      },
+      {
+        "nombre": "Turron Caramel Fulbito 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Leche Aireado Milka 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas Sabor Naranja Docile 14g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Rell.Mouss Frutilla Alfa Pampa Fwp 39 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Kitkat® White 4 Fingers X 41.5gr",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Dulce D Leche SOL SERRANO Fwp 40 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea De Arroz GALLO SNACK X6 Uni 120 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Tableta De Dulce De Leche Coco Vauquita 140 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gelatinas Bruja Tembleke Paq 16 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajores SHOT Con Maní 19g X 6 Unidades",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Pasta De Maní Sol Serrano 40g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate 74% Cacao Perú Ritter 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Torta Sabor Chocolate Relleno Dulce De Leche Smack 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Marroc X6 Chocoarroz Paq 132 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Chocolate Blanco Arcor Fwp 95 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Sabor Frutilla Mentos 29.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Chocolate C/Le Cofler Fwp 140 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT INFINIT Mentol 26,6g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Extra Dark 60% Lindt Lindor 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas De Goma Jelly Beans Terrorífico Mogul 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Nestlé Diplomata Chocolate Con Castañas X 80 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Mini Torta Sabor Coco Aguila 70.5 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Barra Chocolate Explota Rocklets 44 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicle BELDENT Confitado Menta  28 Unidades",
+        "precio": null
+      },
+      {
+        "nombre": "Bombones ALPINO bolsa x 195gr.",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Duros Menta-Lyptus Halls 25.2g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Dúo Leche Y Blanco Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate 60% Cacao Cremoso Cofler 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Masti Extreme Confitados Mogul 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Duros Menta Fullmint 28g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Relleno Mousse Y Mani Cofler 244.2g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Chocowhite Gallo Snack 20g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Bañadas En Chocolate MOGUL 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Duros Sabor Menta Lheritier 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple Day Fantoche 85g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Frutilla Fresa Y Sandia Sugus120g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Coco Y Dulce De Leche Happy Food 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Negro Triple Marley 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Turrón Con Rocklets Arcor 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas De Goma Menta Fresca Tic Tac 16g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Almendras Nestle 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT INFINIT Blueberry 26,6g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple MILKA Mousse Blanco 55g",
+        "precio": null
+      },
+      {
+        "nombre": "Gelatinas Selva Trembly Bli 48 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor Chocolate X10 Uni Alfa Pampa Cja 320 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos De Chocolate Butter Toffees 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Super Ddl Chocoarroz Paq 36 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Dulce De Leche Milka 29g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor De Maicena ALFA PAMPA X6 132g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Leche,C/Super  Vauquita Fwp 75 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Minitorta Blanco Aguila 69 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Bombon Crema De Coco Bon O Bon 270g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Calabaza Halloween Arcor 200g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate Sol Serrano Fwp 40 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Dulce De Leche Sin Azúcar Happy Food 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT INFINIT Citrus 26,6g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Lindt Swiss 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Barrita Rocklets Paq 13.5 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Frutos Del Bosque Sol Serrano 40g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Relleno Yoghurt Frutilla 162g.",
+        "precio": null
+      },
+      {
+        "nombre": "Maxi Alfajor Glaseado Jorgelin 255g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Amargo 60% Cacao Con Naranja Aguila 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT Sandia 20g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Dark Sea Salt Lindt Excellenc 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Bombon Surtidos,Selec Arcor Cja 228.6 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Con Mani Arcor Fwp 95 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Relleno Sabor Limón Lulemuu 22g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Mani Fulbito 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Surtidas Azucaradas Flynn Paff 30gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate 70% Cacao Lindt Excellenc 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno De Dulce De Leche Cofler 38g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple Chocolate Fantoche 255g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Suave Y Cremoso Nestle 45g",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetin Tutti Frutti Flynn Paff Paq 432 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Almond Lindt Swiss 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Suave Y Cremoso NESTLE 22g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Lindt 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Masti Palotes MOGUL 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetin Sabor Frutilla Bola Loca 384gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetin Lollipop Baby Doll 24gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Aireado Con Almendras 110g",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT Menta Fuerte 20g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Masti Extreme Palotes Mogul 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Super Ddl X6 Chocoarroz Paq 216 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Café Latte Menthoplus 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetín Blueberry Cherry Mr Pops180g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea De Arroz Chocobar Gallo Snack 20g",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles Confitado Turbo Mint Topline X 50 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Animals Cremy Pico Dulce 150 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Ddl X6 Chocoarroz Paq 132 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Pasta De Maní Happy Food 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Simple Day Fantoche 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor Chocolate Blanco X10 Alfa Pampa Cja 320 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Masticables Confitados Mogul 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Con Pasta De Maní Mantecol 27g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Dulce De Leche Yüka Cja 300 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Maní Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Aireado Rell.B Cofler Fwp 67 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Minitorta Brownie Aguila 71g",
+        "precio": null
+      },
+      {
+        "nombre": "Bombón Oreo Bañado Con Chocolate Milka 209g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Georgalos 25 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Rellenos Surtidos Butter Teffees 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Max Block Cofler 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Black Nugaton 27 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Tres Sueños 82g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Sab.Pistach.X6 Chocoarroz Paq 168 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Maicena X6 Uni Alfa Pampa Cja 360 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Sabor Fruta Mentos 29.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas Sabor Frutilla Docile 14g",
+        "precio": null
+      },
+      {
+        "nombre": "Postre Tradicional Bon O Bon Est 220 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "ALPINO Chocolate Con Leche Nestlé® X85gr.",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Frutos Rojos 9 De Oro 270g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Mousse Blanco Toddy 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Xl Chocolinas Cofler Fwp 45 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Frutales Ácida Fundipperz X 54 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos De Miel Con Menta Halls 25.65g",
+        "precio": null
+      },
+      {
+        "nombre": "Nestlé® GALAK Chocolate Blanco X 80gr",
+        "precio": null
+      },
+      {
+        "nombre": "Garrapiñadas De Maní King 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Crispy Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Mix Berries Mentho Plus 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Duros Menta Cristal Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Surtidos Kiosco Arcor Cja 246 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "SUFLAIR Chocolate Aireado Duo X 80gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Aireado Con Almendras 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Amargo Con Caramelo Salado 1891 Neugebauer 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Confitados Surtidos Bubbaloo 24g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor OREO Triple 56g",
+        "precio": null
+      },
+      {
+        "nombre": "Maní Con Chocolate Repostero De Leche Bonafide 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Jelly Beans Mogul 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Pesadillas Rocklets 14g",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT INFINIT Citrus 13,3g",
+        "precio": null
+      },
+      {
+        "nombre": "Barra De Chocolate Relleno Con Dulce De Leche Cabsha 110g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Minitorta Clásica Aguila 69g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Aireado Con Leche Milka 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Cookies & Cream Toddy 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno De Avellana Cofler 35g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas De Goma Monstruitos Mogul 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos De Frambuesa Clight 26.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Rellena De Chocolate Con Maní Cofler 110g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Cacao 50% Arcor Fwp 95 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Sabor Plátano Docile 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Anillos Mogul 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Tradicional De Membrillo Chammas 240g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Vauquita Chocolate 55 Gr X 1 Uni",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Acidas Dulces Mogul Extreme 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Mousse Toddy 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetin Chicle Sabor Frutilla Arcor 384g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Capuccino,C/Su Vauquita Fwp 75 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno Con Pasta De Mani Bon O Bon 160g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate 85% Cacao Lindt Excellenc 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Nestlé Classic Chocolate Con Leche X 80gr",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Confitados De Yogur Flynn Paff 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Relleno De Dulce De Leche Lulemuu 22g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Aireado Con Leche 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Marroc Donn 78g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Huellitas Sabor Frutilla Acida Bubbaloo 82.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Conitos Mogul 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Semi Amargo NESTLE 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Maicena Alfa Pampa Fwp 60 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Triple Marley 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate Blanco Y Dulce De Leche Alfa Pampa 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Jelly Buttons Mogul 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Duros Rellenos Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Alfa Pampa Fwp 60 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Postre De Mani Bocadito Mantecol 26g",
+        "precio": null
+      },
+      {
+        "nombre": "Bombón Serenata De Amor Garoto 140.8g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolatosos Arcor Fwp 70 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Duros Mentol Halls 25.2g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Vauquita Blanco 55 Gr X 1 Uni",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas De Goma Colmillos Mogul Paq 30 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Torta Sabor Vainilla Chocman 68g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple Chocolate Fantoche 85 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Ácidos Blueberry Palitos De La Selva 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor Choco X6 Uni Alfa Pampa Paq 192 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gelatinas Askirata Tembleke Bli 32 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Limón Chocoarroz Fwp 22 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Semi Amargo Nestle 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Con Dulce De Leche Genio 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Masticables Su Flynn Paff Paq 504 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Max Chocolinas Cofler 60g",
+        "precio": null
+      },
+      {
+        "nombre": "NESTLE CHOCO TRIO Cookies & Cream X 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Duros Chocolate Y Menta Fullmint 28g",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT Menta 20g",
+        "precio": null
+      },
+      {
+        "nombre": "SUFLAIR Chocolate Aireado Duo X 80gr",
+        "precio": null
+      },
+      {
+        "nombre": "Tableta Tentación Chocolate Con Maní Bon O Bon 120g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Masti Confitados Mogul 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Rellenos Splash Extreme Mogul 72g",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetín Mix Terroríficos Sugus 384g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Y Maní Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas De Goma Rodajas Ácidas Mogul Fwp 50 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles Citrus Blueberry Topline 7 Ultra 24g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas Sabor Frutilla Y Crema Tic Tac 16g",
+        "precio": null
+      },
+      {
+        "nombre": "Turron Mani Bañado Con Chocolate ARCOR 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Kitkat® Dark 4 Fingers X 41,5gr",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajores MILKA Mousse 19g X 6 Unidades",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Chammas 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Maxi Alfajor Blanco Jorgelin 255 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Con Relleno Sabor Limón Con Baño De Reposteria Con Leche Arcor Fwp 20 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Sabor Dulce De Leche 22 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT Infinit Menta 13,3g",
+        "precio": null
+      },
+      {
+        "nombre": "Crunch Chocolate Crujiente X 80gr.",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Vizzio 90 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Fruta Sol Serrano Fwp 40 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Avellanas Lindt Lindor 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno Mousse Toddy 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Mousse De Chocolate Happy Food 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Chocolate Con  COFLER Fwp 140 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Duros Sabor Cherry Lheritier 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple Night Fantoche 85g",
+        "precio": null
+      },
+      {
+        "nombre": "Turron Con Mani Georgalos Paq 25 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Mani Tokke Fwp 120 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT Globo 20g",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT INFINIT Mentol 13,3g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos De Leche Butter Toffees 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Intense 162g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Vizzio 50 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas De Goma Moras Mogul 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple Blanco Fantoche 255g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Sab.Pistacho Chocoarroz Paq 28 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Bombones Surtidos Especiales Arcor 223g",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT INFINIT Blueberry 13,3g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Orange Lindt Excellence 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetin Sabor Sandia Bola Loca 384gr",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Sabor Chocolate Donn 78g",
+        "precio": null
+      },
+      {
+        "nombre": "Gelatinas Piratas Trembly Bli 48 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate 60% Cacao Almendras Cofler 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Relleno Yoghurt Frutilla 82g.",
+        "precio": null
+      },
+      {
+        "nombre": "Almendras Con Chocolate Amargo Nestle 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Tradicional De Leche Chammas 240gr",
+        "precio": null
+      },
+      {
+        "nombre": "Bombón Con Coco Y Almendras Raffaello 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Intense 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Bombones De Chocolate Con Leche Lindt Lindor 37g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Aireado Combinado 110g",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT Frutilla 20g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Georgalos 25 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Blanco C/Ddl X Chocoarroz Paq 132 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche C/Ma Georgalos Fwp 35 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Duros Menta Con Chocolate Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Maní Vizzio 85 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Bolitas De Cereal Con Chocolate Rocklets 35g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Almendras Vizzio 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Tabletas Black Vauquita Tab 80 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Simple Night Fantoche 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate Bon O Bon 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetin Duo Sabor Frutal Push Pop X 14g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Tres Sueños 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Huellitas Frutilla Bubbaloo 15g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Avellanas Cofler 140g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Rellenos Extreme Splash Mogul 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Pasas De Uva Con Chocolate Vizzio 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Leche Triple Fantoche 85 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Sabor Menta Mentos 29.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Tabletas Dulce De Leche Vauquita Tab 80 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Nestlé® Chocolate Con Maní X 150gr",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Miel Con Limón Halls 25.65g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Amargo 1891 Neugebauer 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Naranja Clight 26.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Torta Rellena De Dulce De Leche Picnic 38g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Maní Bonafide 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Oreo Chocopause 45g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Dientes Mogul 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetines Sabor Frutal Push Pop 14g",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetin Chicle Sabor Anana Arcor 384g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate, C/S Vauquita Fwp 75 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Arcor Fwp 12 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Xtra Strong Halls 24.75g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Pasta De Maní Shot 44g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Magic Mentos 29.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas Sab.Tutti Frut Docile Pas 14 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Dulce De Leche Donn 78g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Huellitas Sabor Frutilla Acida Bubbaloo 16.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Limón Vauquita Fwp 28 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Dulce De Leche Intenso Terrabusi 55g",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles Turbo Mint Topline 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Rellenos De Miel Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea De Arroz Frutilla X6 Un Gallo Snack 120g",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetín Sabor Vainilla Y Frutilla Palitos De La Selva 432g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Con Dulce De Leche X6 ALFA PAMPA 360g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Negro Marley 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Negro Nevares 45g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Blanco C/Ddl Chocoarroz Fwp 22 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillero Mix Berries  Mentho Plus 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Amargo Café 1891 Neugebauer 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Confitados Surtidos Bubbaloo 72g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Max Avellanas Cofler 60g",
+        "precio": null
+      },
+      {
+        "nombre": "NESTLE CHOCO TRIO Maní X 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate Fulbito 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate White Lindt Swiss 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Dulce De Leche Creamix Mentho Plus 28g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Aireado Combinado Milka 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas De Goma Eucaliptus Mogul Fwp 50 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT INFINIT Menta 26,6g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Relleno Mouse Y Mani Cofler 40.7g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Duros Miel Y Limon Lheritier 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate C/Leche Y Maní Georgalos Tab 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chupetín Mix Terrorífico Mr Pops 160g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Ladrillos Sabor Mogul 500g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Con Dulce De Leche Milka 29g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Acidas Mix Frutal Bubbaloo 16.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Almendras CADBURY 82g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas De Goma Tutti-Frutti Mogul Fwp 50 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chicles BELDENT Mentol 20g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco C/Ddl VAUQUITA Fwp 28 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Nestlé® Classic Duo Chocolate X 80gr",
+        "precio": null
+      },
+      {
+        "nombre": "Bombón De Fruta Mogul 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Confites Lentejas De Chocolate Rocklets 120g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas Sabor Menta Docile 14g",
+        "precio": null
+      },
+      {
+        "nombre": "Nestlé® Chocolate Con Maní X 90gr",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Duros Sandia Halls 25.2g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Sin Azúcar Georgalos 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Lindt Lindor 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Frutilla Con Vainilla Vauquita 28 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate 60% Cacao Naranja Cofler 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco/Mani Block 38g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas De Goma Citrus Mix Tic Tac 16g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Eucaliptus Mogul 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Maní Neugebauer 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Clasico 9 De Oro 46g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Gusanitos Ácidos Bubbaloo 82.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Mani Block Cja 256 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Masticables Tubicolor Pico Dulce 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Choco Creamy Cofler 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillero Mentol Mentho Plus 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocobar De Arroz X6 Unidades Gallo Snack 120g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate Con Dulce De Leche X6 ALFA PAMPA 360g",
+        "precio": null
+      },
+      {
+        "nombre": "Bombón Surtido Lindt Lindor 137g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Ddl Vauquita Fwp 28 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno Milk Toddy 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Marley 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Picantes Uva Y Sandia Mogul 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Rocklets Cofler 140g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Yogurt De Frutilla Cofler 64g",
+        "precio": null
+      },
+      {
+        "nombre": "Chicle BELDENT Confitado Frutilla Lima 28 Unidades",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Tubitos Sabor Tutti Frutti Mogul 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Bombones FERRERO ROCHER 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelo Manzana Lenguetazo 13g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Negro Chammas 300gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Avellanas 1891 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Bocaditos Marroc Cabsha 240g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Amargo Extra F Aguila Fwp 150 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Bombón Surtido Lindt Lindor 75g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Duros Cherry Halls 25.2g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Limon Donn 78g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Relleno Yoghurt Frutilla 29g.",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Marroc Chocoarroz Fwp 22 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Moras Mogul 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Tokke Fwp 72 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco 9 De Oro 46g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Free Cherry Halls 26.1g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor Blanco X6 Uni Alfa Pampa Paq 192 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Postre De Mani Barra Mantecol 41g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Relleno Con Mousse Cofler 40g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate Y Dulce De Leche Alfa Pampa 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Pastillas De Goma Bananitas Mogul 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Tubitos Sabor Frutilla Mogul 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor BON O BON X6 117g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Masti Extreme Confitados Mogul 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Chocolinas Cofler 40 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Dulce De Leche Jorgito 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Tabletas Dulce De Leche Vauquita Tab 80 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Avellanas Lindt 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate Alfa Pampa Fwp 60 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Almendras NESTLE 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Limón CHOCOARROZ X6 132g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Dulce De Leche Y Mousse Chocotorta 71.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Relleno Mousse De Mani Alfa Pampa Fwp 39 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Gomitas Surtidas Flynn Paff 700 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Sabor Tutti Frutti Mentos 29.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate Blanco Sol Serrano 40g",
+        "precio": null
+      },
+      {
+        "nombre": "Caramelos Free Menta Halls 26.1g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Relleno Mousse Maracuya Alfa Pampa Fwp 39 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche C/Ma Georgalos Paq 62 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Relleno Mousse Avellana Alfa Pampa Fwp 39 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Avellanas Lindt Swiss 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Mini Rhodesia Clásicas 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea RHODESIA Clásica 4u",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Bis Oblea 105,6g",
+        "precio": null
+      },
+      {
+        "nombre": "Mani C/Chocolate Los Carolinos Pot 150 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Semillas De Girasol Tostadas Y Saladas Skinny Pipas 150 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Para Taza Arcor 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Pasas De Uva Con Chocolate Bitter Bariloche 180g",
+        "precio": null
+      },
+      {
+        "nombre": "Barra Frutos Secos Almendra Y Miel Georgalos 180 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Obleas Chocolat C/Rel 9 De Oro Fwp 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Cubanito Con Crema De Maní Barion 44g",
+        "precio": null
+      },
+      {
+        "nombre": "Semillas De Girasol Peladas Natural Pipas 180 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Rellena De Chocolate Cofler 87g",
+        "precio": null
+      },
+      {
+        "nombre": "Galletita Rellena Choco Cookies Chocolate Cofler 105.6g",
+        "precio": null
+      },
+      {
+        "nombre": "Galletitas Rellenas Sabor Chocolate Cofler 85g",
+        "precio": null
+      },
+      {
+        "nombre": "Maní Salado Con Piel Mani King 350g",
+        "precio": null
+      },
+      {
+        "nombre": "Maní Tostado Sin Piel Mani King 350g",
+        "precio": null
+      },
+      {
+        "nombre": "Semillas De Girasol Peladas Saladas Pipas 180 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Maní Con Chocolate Eduli 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Galletitas Rellena Choco Creamy Cofler 85g",
+        "precio": null
+      },
+      {
+        "nombre": "Cubanito De Vainilla Barion 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Galletitas Dulces Choco Cookies Bañadas En Chocolate Cofler 132.8g",
+        "precio": null
+      },
+      {
+        "nombre": "Semillas De Girasol Peladas Sin Sal Pipas 180 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Cubanito Con Avellanas Y Cacao Barion 50g",
+        "precio": null
+      }
+    ]
+  },
+  {
+    "categoria": "Alfajores",
+    "total_urls": 6,
+    "total_productos": 140,
+    "productos": [
+      {
+        "nombre": "Alfajor De Chocolate BAGLEY 73.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor TERRABUSI Chocolate Clásico 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor TERRABUSI Triple Clásico 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor TERRABUSI 38g Blanco Glaseado 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor TERRABUSI Triple Torta 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate Clásico TERRABUSI 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor PEPITOS Triple 57g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor Negro 6u JORGITO 155g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor Rellenos De Dulce De Leche JORGITO 160g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Jorgito Mini Blanco Paquete 25 Gr 6 Unidades",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor De Mousse JORGITO 128g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate 55g JORGITO 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Fruta 6u JORGITO 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco 50g JORGITO 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor TITA Limón 36g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco 6u CACHAFAZ 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Maizena CACHAFAZ 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate 60g CACHAFAZ 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Mousse CACHAFAZ 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor  FANTOCHE Mini Blanco Paquete 25 Gr 6 Unidades",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor  FANTOCHE Mini Chocolate Paquete 25 Gr 6 Unidades",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor BON O BON 40g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate BON O BON 240g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple MILKA Dulce De Leche 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple MILKA Oreo 61g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor MILKA Simple Mousse 42g Display X 6 Un.",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Block COFLER 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor SHOT Con Maní Triple 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor  TOFI   Chocolate Paquete 46 Gr 1 Unidad",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate Triple TOFI 73g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Jorgelín Chocolate 85 Gr X 3 Uni",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple Blanco TOFI 73g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate TOFI 45g 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor De Fruta JORGITO 6u",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Nevares 45g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Negro Con Dulce De Leche Genio 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Dulce De Leche Sin Gluten Happy Food 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Membrillo X6 Yuka 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Rell.Mouss Frutilla Alfa Pampa Fwp 39 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Dulce D Leche SOL SERRANO Fwp 40 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajores SHOT Con Maní 19g X 6 Unidades",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Pasta De Maní Sol Serrano 40g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Torta Sabor Chocolate Relleno Dulce De Leche Smack 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Marroc X6 Chocoarroz Paq 132 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Mini Torta Sabor Coco Aguila 70.5 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Relleno Mousse Y Mani Cofler 244.2g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple Day Fantoche 85g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Coco Y Dulce De Leche Happy Food 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Negro Triple Marley 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple MILKA Mousse Blanco 55g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor Chocolate X10 Uni Alfa Pampa Cja 320 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Super Ddl Chocoarroz Paq 36 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor De Maicena ALFA PAMPA X6 132g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Leche,C/Super  Vauquita Fwp 75 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Minitorta Blanco Aguila 69 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate Sol Serrano Fwp 40 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Dulce De Leche Sin Azúcar Happy Food 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Frutos Del Bosque Sol Serrano 40g",
+        "precio": null
+      },
+      {
+        "nombre": "Maxi Alfajor Glaseado Jorgelin 255g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Relleno Sabor Limón Lulemuu 22g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Mani Fulbito 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple Chocolate Fantoche 255g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Super Ddl X6 Chocoarroz Paq 216 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Ddl X6 Chocoarroz Paq 132 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Pasta De Maní Happy Food 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Simple Day Fantoche 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor Chocolate Blanco X10 Alfa Pampa Cja 320 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Dulce De Leche Yüka Cja 300 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Minitorta Brownie Aguila 71g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Sab.Pistach.X6 Chocoarroz Paq 168 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Maicena X6 Uni Alfa Pampa Cja 360 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Frutos Rojos 9 De Oro 270g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Mousse Blanco Toddy 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor OREO Triple 56g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Minitorta Clásica Aguila 69g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Tradicional De Membrillo Chammas 240g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Vauquita Chocolate 55 Gr X 1 Uni",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Mousse Toddy 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Capuccino,C/Su Vauquita Fwp 75 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Relleno De Dulce De Leche Lulemuu 22g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Marroc Donn 78g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Maicena Alfa Pampa Fwp 60 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Triple Marley 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate Blanco Y Dulce De Leche Alfa Pampa 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Alfa Pampa Fwp 60 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Vauquita Blanco 55 Gr X 1 Uni",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple Chocolate Fantoche 85 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor Choco X6 Uni Alfa Pampa Paq 192 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Limón Chocoarroz Fwp 22 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Con Dulce De Leche Genio 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajores MILKA Mousse 19g X 6 Unidades",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Chammas 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Maxi Alfajor Blanco Jorgelin 255 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Sabor Dulce De Leche 22 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Fruta Sol Serrano Fwp 40 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Mousse De Chocolate Happy Food 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple Night Fantoche 85g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Triple Blanco Fantoche 255g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Sab.Pistacho Chocoarroz Paq 28 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Sabor Chocolate Donn 78g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Tradicional De Leche Chammas 240gr",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Blanco C/Ddl X Chocoarroz Paq 132 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Simple Night Fantoche 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate Bon O Bon 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Leche Triple Fantoche 85 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Torta Rellena De Dulce De Leche Picnic 38g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate, C/S Vauquita Fwp 75 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Pasta De Maní Shot 44g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Dulce De Leche Donn 78g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Limón Vauquita Fwp 28 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Dulce De Leche Intenso Terrabusi 55g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Con Dulce De Leche X6 ALFA PAMPA 360g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Negro Marley 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Negro Nevares 45g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Blanco C/Ddl Chocoarroz Fwp 22 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate Fulbito 30g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Relleno Mouse Y Mani Cofler 40.7g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco C/Ddl VAUQUITA Fwp 28 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Frutilla Con Vainilla Vauquita 28 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Clasico 9 De Oro 46g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Choco Creamy Cofler 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate Con Dulce De Leche X6 ALFA PAMPA 360g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Ddl Vauquita Fwp 28 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco Marley 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Negro Chammas 300gr",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Limon Donn 78g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor D/Arroz Marroc Chocoarroz Fwp 22 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Blanco 9 De Oro 46g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor Blanco X6 Uni Alfa Pampa Paq 192 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Relleno Con Mousse Cofler 40g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate Y Dulce De Leche Alfa Pampa 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Mini Alfajor BON O BON X6 117g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Dulce De Leche Jorgito 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Chocolate Alfa Pampa Fwp 60 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Arroz Limón CHOCOARROZ X6 132g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Dulce De Leche Y Mousse Chocotorta 71.5g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Relleno Mousse De Mani Alfa Pampa Fwp 39 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor De Chocolate Blanco Sol Serrano 40g",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Relleno Mousse Maracuya Alfa Pampa Fwp 39 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Alfajor Relleno Mousse Avellana Alfa Pampa Fwp 39 Grm",
+        "precio": null
+      }
+    ]
+  },
+  {
+    "categoria": "Chocolates",
+    "total_urls": 8,
+    "total_productos": 186,
+    "productos": [
+      {
+        "nombre": "Chocolate 50% Cacao ARCOR 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco ARCOR 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche ARCOR 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate GEORGALOS Sin Azúcar 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Extrafino Amargo AGUILA 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Donas Chocolate Blanco DONUTS 78g",
+        "precio": null
+      },
+      {
+        "nombre": "Donas Chocolate DONUTS 78g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Con Leche 20g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Oreo Blanco 20g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Con Almendras 155g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Oreo Blanco 155g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Con Almendras  55g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Relleno Dulce De Leche 67,5g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Blanco Relleno Dulce De Leche 67,5g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Con Castañas 155g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Oreo Lila Go 37g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Oreo Blanco 55g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Choco Swing 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche MILKA 150g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Con Castañas 55g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Con Leche 55g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Relleno Dulce De Leche 135g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Blanco 55g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate KINDER Bueno Tab 43 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate KINDER Maxi Tab 21 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Bco/Lech Cofler Tab 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Maní Block COFLER 1000g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Con Leche Tab 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Cofler Mixto Tab 27 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco COFLER Paq 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Maní COFLER 170g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Air Blanco Cofler Tab 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Con Leche Y Cereal 55 Gr.",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Air Blanco Tab 27 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Air/Lec Tab 27 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Air/Lec Cofler Tab 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco C/Cooki COFLER Fwp 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Aireado Leche Tab 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Con Mani Paq 110 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate C/Mani COFLER Paq 300 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Con Maní 38 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Aireado Blanco Y Leche Tab 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Air Almendras Tab 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate COFLER Con Leche Y Almendras Paq 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Almendra Cofler Paq 55 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Air/Bco COFLER Tab 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Kitkat® 4 Fingers X 41.5gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate SHOT Con Maní 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate SHOT Con Maní 35g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate SHOT Con Maní 170g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate NUGATON Blanco 27 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate NUGATON 27 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Con Avellana RITTER Sport 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Avellanas Y Pasas RITTER 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Belgium 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Hazelnut Belgium Est 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate TOBLERONE Con Leche Tab 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno De Mouse Ritter 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Almendra Ritter 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Avellanas Ritter 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Alpenmelk RITTER 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Bitter Sweet 5 Belgium 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate C/Mani Georgalos Bar 160 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Aireado Mix Toddy 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Cacao 50% Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco GEORGALOS 8g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche NEUGEBAUER 80g",
+        "precio": null
+      },
+      {
+        "nombre": "NESTLE CHOCO TRIO Chocolate X 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Aireado Con Leche 110g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Chocolate Bco  Cofler Fwp 140 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno De Pasta De Maní Bon O Bon 48g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Amargo 40% Cacao NEUGEBAUER 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche GEORGALOS 8g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Arcor 48g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Leche Aireado Milka 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Kitkat® White 4 Fingers X 41.5gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate 74% Cacao Perú Ritter 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Chocolate Blanco Arcor Fwp 95 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Chocolate C/Le Cofler Fwp 140 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Extra Dark 60% Lindt Lindor 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Nestlé Diplomata Chocolate Con Castañas X 80 Gr",
+        "precio": null
+      },
+      {
+        "nombre": "Barra Chocolate Explota Rocklets 44 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Dúo Leche Y Blanco Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate 60% Cacao Cremoso Cofler 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Almendras Nestle 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Dulce De Leche Milka 29g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Lindt Swiss 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Barrita Rocklets Paq 13.5 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Relleno Yoghurt Frutilla 162g.",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Amargo 60% Cacao Con Naranja Aguila 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Dark Sea Salt Lindt Excellenc 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Con Mani Arcor Fwp 95 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate 70% Cacao Lindt Excellenc 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno De Dulce De Leche Cofler 38g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Suave Y Cremoso Nestle 45g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Almond Lindt Swiss 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Suave Y Cremoso NESTLE 22g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Lindt 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Aireado Con Almendras 110g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Maní Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Aireado Rell.B Cofler Fwp 67 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Georgalos 25 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Max Block Cofler 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Black Nugaton 27 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Tres Sueños 82g",
+        "precio": null
+      },
+      {
+        "nombre": "ALPINO Chocolate Con Leche Nestlé® X85gr.",
+        "precio": null
+      },
+      {
+        "nombre": "Nestlé® GALAK Chocolate Blanco X 80gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Crispy Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "SUFLAIR Chocolate Aireado Duo X 80gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Aireado Con Almendras 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Amargo Con Caramelo Salado 1891 Neugebauer 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Pesadillas Rocklets 14g",
+        "precio": null
+      },
+      {
+        "nombre": "Barra De Chocolate Relleno Con Dulce De Leche Cabsha 110g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Aireado Con Leche Milka 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Cookies & Cream Toddy 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno De Avellana Cofler 35g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Cacao 50% Arcor Fwp 95 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno Con Pasta De Mani Bon O Bon 160g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate 85% Cacao Lindt Excellenc 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Nestlé Classic Chocolate Con Leche X 80gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Aireado Con Leche 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Semi Amargo NESTLE 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Semi Amargo Nestle 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Max Chocolinas Cofler 60g",
+        "precio": null
+      },
+      {
+        "nombre": "NESTLE CHOCO TRIO Cookies & Cream X 90g",
+        "precio": null
+      },
+      {
+        "nombre": "SUFLAIR Chocolate Aireado Duo X 80gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Y Maní Arcor 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Kitkat® Dark 4 Fingers X 41,5gr",
+        "precio": null
+      },
+      {
+        "nombre": "Crunch Chocolate Crujiente X 80gr.",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Vizzio 90 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Avellanas Lindt Lindor 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno Mousse Toddy 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Chocolate Con  COFLER Fwp 140 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Mani Tokke Fwp 120 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Intense 162g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Vizzio 50 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Orange Lindt Excellence 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate 60% Cacao Almendras Cofler 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Relleno Yoghurt Frutilla 82g.",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Intense 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Aireado Combinado 110g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Georgalos 25 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche C/Ma Georgalos Fwp 35 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Maní Vizzio 85 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Almendras Vizzio 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Tres Sueños 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Avellanas Cofler 140g",
+        "precio": null
+      },
+      {
+        "nombre": "Nestlé® Chocolate Con Maní X 150gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Amargo 1891 Neugebauer 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate MILKA Oreo Chocopause 45g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Arcor Fwp 12 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Amargo Café 1891 Neugebauer 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Max Avellanas Cofler 60g",
+        "precio": null
+      },
+      {
+        "nombre": "NESTLE CHOCO TRIO Maní X 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate White Lindt Swiss 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Aireado Combinado Milka 25g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate C/Leche Y Maní Georgalos Tab 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Con Dulce De Leche Milka 29g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Almendras CADBURY 82g",
+        "precio": null
+      },
+      {
+        "nombre": "Nestlé® Classic Duo Chocolate X 80gr",
+        "precio": null
+      },
+      {
+        "nombre": "Confites Lentejas De Chocolate Rocklets 120g",
+        "precio": null
+      },
+      {
+        "nombre": "Nestlé® Chocolate Con Maní X 90gr",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco Sin Azúcar Georgalos 70g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Milk Lindt Lindor 100 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate 60% Cacao Naranja Cofler 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Blanco/Mani Block 38g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Maní Neugebauer 80g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Mani Block Cja 256 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Relleno Milk Toddy 60g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Rocklets Cofler 140g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Yogurt De Frutilla Cofler 64g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Avellanas 1891 90g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Amargo Extra F Aguila Fwp 150 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate CADBURY Relleno Yoghurt Frutilla 29g.",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Tokke Fwp 72 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Chocolinas Cofler 40 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Avellanas Lindt 300g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Almendras NESTLE 50g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche C/Ma Georgalos Paq 62 Grm",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Con Leche Y Avellanas Lindt Swiss 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Chocolate Para Taza Arcor 100g",
+        "precio": null
+      },
+      {
+        "nombre": "Oblea Rellena De Chocolate Cofler 87g",
+        "precio": null
+      },
+      {
+        "nombre": "Galletita Rellena Choco Cookies Chocolate Cofler 105.6g",
+        "precio": null
+      },
+      {
+        "nombre": "Galletitas Rellenas Sabor Chocolate Cofler 85g",
+        "precio": null
+      },
+      {
+        "nombre": "Galletitas Rellena Choco Creamy Cofler 85g",
+        "precio": null
+      },
+      {
+        "nombre": "Galletitas Dulces Choco Cookies Bañadas En Chocolate Cofler 132.8g",
+        "precio": null
+      }
+    ]
+  }
+]

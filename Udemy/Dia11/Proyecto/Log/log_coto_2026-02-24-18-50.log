@@ -1,0 +1,32 @@
+2026-02-24 18:50:21,821 - INFO - ***************************************************
+2026-02-24 18:50:21,822 - INFO - Procesando 1/10 -> Golosinas
+2026-02-24 18:50:22,457 - INFO - ✅ Golosinas: 26 páginas
+2026-02-24 18:50:22,457 - INFO - ***************************************************
+2026-02-24 18:50:22,457 - INFO - Procesando 2/10 -> Alfajores
+2026-02-24 18:50:22,710 - INFO - ✅ Alfajores: 6 páginas
+2026-02-24 18:50:22,710 - INFO - ***************************************************
+2026-02-24 18:50:22,710 - INFO - Procesando 3/10 -> Chocolates
+2026-02-24 18:50:23,036 - INFO - ✅ Chocolates: 8 páginas
+2026-02-24 18:50:23,036 - INFO - ***************************************************
+2026-02-24 18:50:23,036 - INFO - Procesando 4/10 -> Caramelos Y Chupetines
+2026-02-24 18:50:23,370 - INFO - ✅ Caramelos Y Chupetines: 5 páginas
+2026-02-24 18:50:23,370 - INFO - ***************************************************
+2026-02-24 18:50:23,370 - INFO - Procesando 5/10 -> Chicles Y Pastillas
+2026-02-24 18:50:23,680 - INFO - ✅ Chicles Y Pastillas: 2 páginas
+2026-02-24 18:50:23,680 - INFO - ***************************************************
+2026-02-24 18:50:23,680 - INFO - Procesando 6/10 -> Bombones Y Bocaditos
+2026-02-24 18:50:24,009 - INFO - ✅ Bombones Y Bocaditos: 2 páginas
+2026-02-24 18:50:24,009 - INFO - ***************************************************
+2026-02-24 18:50:24,009 - INFO - Procesando 7/10 -> Confituras
+2026-02-24 18:50:24,286 - INFO - ✅ Confituras: 1 páginas
+2026-02-24 18:50:24,286 - INFO - ***************************************************
+2026-02-24 18:50:24,286 - INFO - Procesando 8/10 -> Donas, Rolls Y Bizcochuelos
+2026-02-24 18:50:24,597 - INFO - ✅ Donas, Rolls Y Bizcochuelos: 1 páginas
+2026-02-24 18:50:24,598 - INFO - ***************************************************
+2026-02-24 18:50:24,598 - INFO - Procesando 9/10 -> Gomitas Y Gelatinas
+2026-02-24 18:50:24,850 - INFO - ✅ Gomitas Y Gelatinas: 3 páginas
+2026-02-24 18:50:24,850 - INFO - ***************************************************
+2026-02-24 18:50:24,850 - INFO - Procesando 10/10 -> Malvaviscos
+2026-02-24 18:50:25,194 - INFO - ✅ Malvaviscos: 0 páginas
+2026-02-24 18:50:25,195 - INFO - 🗑 Archivo eliminado: Coto\categorias.json ✔
+2026-02-24 18:50:25,195 - INFO - 📦 JSON final generado en: Coto\categorias_paginadas.json

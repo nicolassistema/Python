@@ -1,0 +1,22 @@
+2026-02-24 18:44:34,112 - INFO - Procesando 1/10 -> Golosinas
+2026-02-24 18:44:35,006 - INFO - ✅ Golosinas: 26 páginas
+2026-02-24 18:44:35,006 - INFO - Procesando 2/10 -> Alfajores
+2026-02-24 18:44:35,527 - INFO - ✅ Alfajores: 6 páginas
+2026-02-24 18:44:35,527 - INFO - Procesando 3/10 -> Chocolates
+2026-02-24 18:44:36,059 - INFO - ✅ Chocolates: 8 páginas
+2026-02-24 18:44:36,059 - INFO - Procesando 4/10 -> Caramelos Y Chupetines
+2026-02-24 18:44:36,768 - INFO - ✅ Caramelos Y Chupetines: 5 páginas
+2026-02-24 18:44:36,768 - INFO - Procesando 5/10 -> Chicles Y Pastillas
+2026-02-24 18:44:37,347 - INFO - ✅ Chicles Y Pastillas: 2 páginas
+2026-02-24 18:44:37,347 - INFO - Procesando 6/10 -> Bombones Y Bocaditos
+2026-02-24 18:44:37,798 - INFO - ✅ Bombones Y Bocaditos: 2 páginas
+2026-02-24 18:44:37,798 - INFO - Procesando 7/10 -> Confituras
+2026-02-24 18:44:38,218 - INFO - ✅ Confituras: 1 páginas
+2026-02-24 18:44:38,218 - INFO - Procesando 8/10 -> Donas, Rolls Y Bizcochuelos
+2026-02-24 18:44:38,467 - INFO - ✅ Donas, Rolls Y Bizcochuelos: 1 páginas
+2026-02-24 18:44:38,467 - INFO - Procesando 9/10 -> Gomitas Y Gelatinas
+2026-02-24 18:44:38,884 - INFO - ✅ Gomitas Y Gelatinas: 3 páginas
+2026-02-24 18:44:38,885 - INFO - Procesando 10/10 -> Malvaviscos
+2026-02-24 18:44:39,131 - INFO - ✅ Malvaviscos: 0 páginas
+2026-02-24 18:44:39,132 - INFO - 🗑 Archivo eliminado: Coto\categorias.json ✔
+2026-02-24 18:44:39,133 - INFO - 📦 JSON final generado en: Coto\categorias_paginadas.json
