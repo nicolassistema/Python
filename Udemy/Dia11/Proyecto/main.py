@@ -1,50 +1,68 @@
-import requests
+import generador
+import os
 import json
+import extractor_paginacion
 
-page_url = "https://www.cotodigital.com.ar/sitios/cdigi/categoria/catalogo-almac%C3%A9n/_/N-8pub5z?Nf=product.endDate%7CGTEQ%201.7718912E12%7C%7Cproduct.startDate%7CLTEQ%201.7718912E12&Nr=AND(product.sDisp_200:1004,product.language:espa%C3%B1ol,OR(product.siteId:CotoDigital))&format=json"
+if __name__ == "__main__":
+    API_URL = (
+        "https://www.cotodigital.com.ar/sitios/cdigi/categoria/catalogo-almac%C3%A9n/_/N-8pub5z"
+        "?Nf=product.endDate%7CGTEQ%201.7718912E12%7C%7Cproduct.startDate%7CLTEQ%201.7718912E12"
+        "&Nr=AND(product.sDisp_200:1004,product.language:espa%C3%B1ol,OR(product.siteId:CotoDigital))"
+        "&format=json"
+    )
 
-headers = {
-    "User-Agent": "Mozilla/5.0",
-    "Accept-Language": "es-AR,es;q=0.9,en;q=0.8",
-    "Accept": "application/json, text/plain, */*",
-}
+    scraper = generador.CotoScraper(api_url=API_URL)
+    scraper.generar_categorias(verbose=True)
 
-s = requests.Session()
-s.headers.update(headers)
 
-# 1️⃣ Entramos a la home para obtener cookies
-r1 = s.get("https://www.cotodigital.com.ar/", timeout=(5, 15))
-print("base status:", r1.status_code)
 
-# 2️⃣ Llamamos a la API
-r2 = s.get(
-    page_url,
-    headers={"Referer": "https://www.cotodigital.com.ar/"},
-    timeout=(5, 15)
-)
+# ----------------------------
+# 1) Cargar categorias.json
+# ----------------------------
+carpeta = "Coto"
+archivo = "categorias.json"
+ruta = os.path.join(carpeta, archivo)
 
-print("api status:", r2.status_code)
+if not os.path.exists(ruta):
+    raise FileNotFoundError(f"No existe el archivo: {ruta}")
 
-# 3️⃣ Verificamos que la respuesta sea JSON
-content_type = r2.headers.get("Content-Type", "")
+with open(ruta, "r", encoding="utf-8") as f:
+    datos = json.load(f)
 
-if r2.status_code == 200 and "application/json" in content_type:
-    print("La respuesta es JSON válido ✔")
+# Armamos la lista (nombre, url) desde el JSON
+categorias = []
+for item in datos:
+    nombre = item.get("nombre")
+    url = item.get("url")
+    if nombre and url:
+        categorias.append((nombre, url))
 
+# ----------------------------
+# 2) Recorrer categorías y paginar
+# ----------------------------
+for nombre, url_cat in categorias:
     try:
-        data = r2.json()  # Convertimos a dict de Python
+        total_pages, urls_json, urls_html = obtener_paginacion_categoria(url_cat)
 
-        # Guardamos el JSON
-        with open("coto_almacen.json", "w", encoding="utf-8") as f:
-            json.dump(data, f, ensure_ascii=False, indent=2)
+        print("\n==============================")
+        print("Categoría:", nombre)
+        print("URL:", url_cat)
+        print("Pages:", total_pages)
 
-        print("Guardado: coto_almacen.json")
+        if len(urls_json) >= 2:
+            print("JSON page2:", urls_json[1])
+        else:
+            print("JSON page2: (no hay)")
 
-    except json.JSONDecodeError:
-        print("La respuesta dice ser JSON pero no pudo decodificarse ❌")
+        if len(urls_html) >= 2:
+            print("HTML page2:", urls_html[1])
+        else:
+            print("HTML page2: (no hay)")
 
-else:
-    print("La respuesta NO es JSON ❌")
-    print("Content-Type recibido:", content_type)
-    print("Primeros 500 caracteres de la respuesta:")
-    print(r2.text[:500])
+        # Acá podrías iterar urls_json para scrapear productos
+        # for u in urls_json:
+        #     ...
+
+    except Exception as e:
+        print("\n❌ Error en categoría:", nombre)
+        print("   ", e)
