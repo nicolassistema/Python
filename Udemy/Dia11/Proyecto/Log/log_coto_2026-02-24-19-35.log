@@ -1,0 +1,56 @@
+2026-02-24 19:35:41,829 - INFO - ***************************************************
+2026-02-24 19:35:41,830 - INFO - Procesando 1/3 -> Golosinas
+2026-02-24 19:35:42,587 - INFO - ✅ Golosinas: 26 páginas
+2026-02-24 19:35:42,587 - INFO - ***************************************************
+2026-02-24 19:35:42,587 - INFO - Procesando 2/3 -> Alfajores
+2026-02-24 19:35:43,063 - INFO - ✅ Alfajores: 6 páginas
+2026-02-24 19:35:43,063 - INFO - ***************************************************
+2026-02-24 19:35:43,063 - INFO - Procesando 3/3 -> Chocolates
+2026-02-24 19:35:43,589 - INFO - ✅ Chocolates: 8 páginas
+2026-02-24 19:35:43,596 - INFO - 🗑 Archivo eliminado: Coto\categorias.json ✔
+2026-02-24 19:35:43,596 - INFO - 📦 JSON final generado en: Coto\categorias_paginadas.json
+2026-02-24 19:35:43,597 - INFO - 📌 Lista resumida creada: 3 categorías con URLs
+2026-02-24 19:35:43,597 - INFO - 📦 Scrapeando categoría 1/3: Golosinas (páginas: 26)
+2026-02-24 19:35:43,597 - ERROR - ❌ Error scrapeando Golosinas (página 1/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,597 - ERROR - ❌ Error scrapeando Golosinas (página 2/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,597 - ERROR - ❌ Error scrapeando Golosinas (página 3/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,597 - ERROR - ❌ Error scrapeando Golosinas (página 4/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,597 - ERROR - ❌ Error scrapeando Golosinas (página 5/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,597 - ERROR - ❌ Error scrapeando Golosinas (página 6/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,597 - ERROR - ❌ Error scrapeando Golosinas (página 7/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,597 - ERROR - ❌ Error scrapeando Golosinas (página 8/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,597 - ERROR - ❌ Error scrapeando Golosinas (página 9/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,597 - ERROR - ❌ Error scrapeando Golosinas (página 10/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,597 - ERROR - ❌ Error scrapeando Golosinas (página 11/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,597 - ERROR - ❌ Error scrapeando Golosinas (página 12/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,597 - ERROR - ❌ Error scrapeando Golosinas (página 13/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Golosinas (página 14/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Golosinas (página 15/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Golosinas (página 16/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Golosinas (página 17/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Golosinas (página 18/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Golosinas (página 19/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Golosinas (página 20/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Golosinas (página 21/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Golosinas (página 22/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Golosinas (página 23/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Golosinas (página 24/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Golosinas (página 25/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Golosinas (página 26/26): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - INFO - 📦 Scrapeando categoría 2/3: Alfajores (páginas: 6)
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Alfajores (página 1/6): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Alfajores (página 2/6): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Alfajores (página 3/6): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,598 - ERROR - ❌ Error scrapeando Alfajores (página 4/6): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,599 - ERROR - ❌ Error scrapeando Alfajores (página 5/6): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,599 - ERROR - ❌ Error scrapeando Alfajores (página 6/6): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,599 - INFO - 📦 Scrapeando categoría 3/3: Chocolates (páginas: 8)
+2026-02-24 19:35:43,599 - ERROR - ❌ Error scrapeando Chocolates (página 1/8): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,599 - ERROR - ❌ Error scrapeando Chocolates (página 2/8): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,599 - ERROR - ❌ Error scrapeando Chocolates (página 3/8): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,599 - ERROR - ❌ Error scrapeando Chocolates (página 4/8): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,599 - ERROR - ❌ Error scrapeando Chocolates (página 5/8): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,599 - ERROR - ❌ Error scrapeando Chocolates (página 6/8): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,599 - ERROR - ❌ Error scrapeando Chocolates (página 7/8): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,599 - ERROR - ❌ Error scrapeando Chocolates (página 8/8): 'CotoProductoExtractor' object has no attribute 'scrape_url_paginada'
+2026-02-24 19:35:43,600 - INFO - ✅ Productos guardados en: Coto\productos_nombre_precio.json
