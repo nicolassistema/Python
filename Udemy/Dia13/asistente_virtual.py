@@ -33,7 +33,53 @@ def normalizar_texto(txt: str) -> str:
     return txt
 
 
+def extraer_empresa_desde_pedido(pedido: str) -> str:
+    # pedido ya viene normalizado (sin tildes, minusculas)
+    s = pedido
 
+    # borrar frase guía (sumá variantes si querés)
+    for prefix in [
+        "precio de las acciones de",
+        "precio de las acciones",
+        "precio de la accion de",
+        "precio de la accion",
+        "precio acciones de",
+        "precio acciones",
+    ]:
+        if prefix in s:
+            s = s.replace(prefix, "").strip()
+
+    # limpiar basura típica
+    s = re.sub(r"\b(de|del|la|las|el|los)\b", " ", s)
+    s = re.sub(r"\s+", " ", s).strip()
+
+    return s
+
+
+def buscar_ticker_por_nombre(nombre_empresa: str) -> str | None:
+    """
+    Intenta encontrar el ticker a partir del nombre usando yfinance.Search (si existe).
+    Devuelve 'AAPL', 'MSFT', etc. o None si no encuentra.
+    """
+    try:
+        # yfinance moderno
+        search = yf.Search(nombre_empresa, max_results=10)
+        quotes = getattr(search, "quotes", None) or []
+        for q in quotes:
+            symbol = q.get("symbol")
+            qtype = (q.get("quoteType") or "").upper()
+            # Filtrar cosas razonables
+            if symbol and qtype in {"EQUITY", "ETF"}:
+                return symbol
+        # si no hay quoteType, igual devolvemos el primero con symbol
+        for q in quotes:
+            symbol = q.get("symbol")
+            if symbol:
+                return symbol
+    except Exception:
+        pass
+
+    return None
 
 #opciones de voz/idioma
 id1= r'HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Speech\Voices\Tokens\TTS_MS_EN-US_DAVID_11.0'
@@ -236,21 +282,42 @@ def pedir_cosas():
         elif 'broma' in pedido:
             hablar(pyjokes.get_joke(language='es'))
             continue
-        elif 'precio de las acciones' in pedido:
-            accion = pedido.split('de')[-1].strip()
-            cartera = {'apple':'APPL',
-                       'amazon':'AMZN',
-                       'google':'GOOGL'
-                       }
+        elif 'precio de las acciones' in pedido or 'precio de la accion' in pedido:
+            empresa = extraer_empresa_desde_pedido(pedido)
+
+            if not empresa:
+                hablar("¿De qué empresa querés el precio? Decime: 'precio de las acciones de Apple', por ejemplo.")
+                continue
 
             try:
-                accion_buscada = cartera[accion]
-                accion_buscada = yf.Ticker(accion_buscada)
-                precio_actual = accion_buscada.info['regularMarketPrice']
-                hablar(f'La encontre, el precio actual de {accion} es {precio_actual}')
+                ticker = buscar_ticker_por_nombre(empresa)
+
+                if not ticker:
+                    hablar(
+                        f"No pude identificar el ticker de {empresa}. Probá diciendo el símbolo, por ejemplo: 'precio de la acción de AAPL'.")
+                    continue
+
+                t = yf.Ticker(ticker)
+
+                # fast_info suele ser más estable que info
+                precio = None
+                try:
+                    precio = t.fast_info.get("last_price")
+                except Exception:
+                    precio = None
+
+                if precio is None:
+                    precio = t.info.get("regularMarketPrice")
+
+                if precio is None:
+                    hablar(f"Encontré {empresa} ({ticker}), pero no pude obtener el precio ahora.")
+                    continue
+
+                hablar(f"El precio actual de {empresa} ({ticker}) es {precio}")
                 continue
-            except :
-                hablar('Perdon pero no la he encontrado')
+
+            except Exception:
+                hablar("Perdón, tuve un problema consultando el precio.")
                 continue
 
         else:
