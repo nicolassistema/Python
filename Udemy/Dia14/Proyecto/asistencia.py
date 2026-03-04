@@ -3,6 +3,7 @@ from cv2 import *
 import face_recognition as fr
 import os
 import numpy as np
+from datetime import datetime
 
 
 #crear una base de datos
@@ -35,6 +36,21 @@ def codificar(imagenes):
         lista_codificada.append(codificado)
 
     return lista_codificada
+
+
+#registrar los ingresos
+def registrar_ingresos(persona):
+ f = open('registro.csv','r+')
+ lista_datos = f.readlines()
+ nombre_registro = []
+ for linea in lista_datos:
+     ingresos = linea.split(',')
+     nombre_registro.append(ingresos[0])
+
+     if persona not in nombre_registro:
+         ahora = datetime.now()
+         string_ahora = ahora.strftime("%H:%M:%S")
+         f.write(f'\n{persona},{string_ahora}')
 
 
 lista_empleados_codificada = codificar(mis_imagenes)
@@ -76,7 +92,9 @@ else:
             cv2.rectangle(imagen,(x1,y1),(x2,y2),(0,255,0),2)
             cv2.rectangle(imagen,(x1,y2 - 35),(x2,y2),(0,0,255),cv2.FILLED)
             cv2.putText(imagen, nombre, (x1 + 6, y2 - 6), cv2.FONT_HERSHEY_COMPLEX, 1, (255,2555,255), 2)
-            
+
+
+            registrar_ingresos(nombre)
 
 
             #motrar la imagen obtenida
