@@ -1,7 +1,9 @@
 <h1>Lista de pendientes</h1>
+<a href="{% url 'crear-tarea' %}">Crear Nueva Tarea</a>
 <table>
     <tr>
         <th>Elementos</th>
+        <th></th>
     </tr>
 
 
@@ -9,6 +11,7 @@
 
     <tr>
        <td>{{ tarea.titulo }}</td>
+        <td><a href="{% url 'tarea' tarea.id %}">Ver</a></td>
     </tr>
     {% empty %}
 
