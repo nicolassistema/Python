@@ -1,3 +1,9 @@
+{% extends 'base/principal.html' %}
+
+{% block content %}
+
+{% endblock content %}
+
 {% if request.user.is_authenticated %}
     <p>{{ request.user }}</p>
 
@@ -19,16 +25,17 @@
 <form method="GET">
     <input type="text" name="area-buscar" value="{{ valor_buscado }}">
     <input type="submit" name="Buscar" value = "Buscar">
-
 </form>
+
 
 {% for tarea in tareas %}
     <div>
-        <a href="{% url 'tarea' tarea.id %}">Ver</a>
+      <span>{{ tarea.titulo }}</span>
         <a href="{% url 'editar-tarea' tarea.id %}">Editar</a>
         <a href="{% url 'eliminar-tarea' tarea.id %}">Eliminar</a>
-        <span>{{ tarea.titulo }}</span>
+
     </div>
 {% empty %}
     <h3>No hay elementos en esta lista</h3>
 {% endfor %}
+
